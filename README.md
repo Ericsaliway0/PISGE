@@ -1,22 +1,18 @@
-## Adaptive Chebyshev Graph Neural Network for Cancer Gene Prediction with Multi-Omics Integration
+## Pathway-Informed Spectral Embeddings for Explainable Cancer Genomics
 
 This repository contains the code for our project,  
-**"Adaptive Chebyshev Graph Neural Network for Cancer Gene Prediction with Multi-Omics Integration,"**  
-submitted to the Journal of Bioinformatics Advances.
+**"Pathway-Informed Spectral Embeddings for Explainable Cancer Genomics,"**.
 
 
-![Alt text](images/__overview_framework.png)
-
+![Alt text](images/__overview_framework.jpeg)
 
 ## Data Source
 
 The dataset is obtained from the following sources:
 
-- **[STRING database](https://string-db.org/cgi/download?sessionId=b7WYyccF6G1p)**  
-- **[HIPPIE: Human Integrated Protein-Protein Interaction rEference](https://cbdm-01.zdv.uni-mainz.de/~mschaefer/hippie/download.php)**  
-- **[ConsensusPathDB (CPDB)](http://cpdb.molgen.mpg.de/CPDB)**  
+- **[reactome pathway database](https://reactome.org/)**  
 
-These databases provide curated and integrated protein-protein interaction (PPI) and pathway data for bioinformatics research.
+TREACTOME is an open-source, open access, manually curated and peer-reviewed pathway database.
 
 
 ## Setup and Get Started
